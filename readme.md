@@ -22,4 +22,4 @@ Kullanıcılarınızın şunları yapabilmesi gerekmektedir:
 
 [Demo Baglantı](https://xn--merfrat-80a94c.com/fech-odev/)
 
-[Github Link]()
+[Github Link](https://github.com/acunmedyaakademi/fech-advice-generator/tree/master)
